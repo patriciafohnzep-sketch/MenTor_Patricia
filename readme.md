@@ -111,7 +111,7 @@ For initial testing, you can use the following admin credentials:
 
 Contributions are welcome! Please feel free to fork the repository, create pull requests, or open issues for bugs and feature requests.
 ## patricia's contribution
-My name is patricia fohnzep and this is my contributio
+My name is patricia fohnzep and this is my contribution
 
 
 ## 📞 Support
